@@ -7,14 +7,16 @@ Southern and Northern Dynasties (420–589) are worked through in detail; the
 other periods are an overview — borders at key dates, the main people and
 events — and corrections and additions there are especially welcome.
 
-## Contributing
+## Trying the editing tools
 
-Anyone can propose a change. On the site, press **✎ 提議修改 / Suggest edits**,
-make your change with the same tools the editors use (people, events, sources,
-cities, borders, rivers and mountains), then open **我的提議 / My proposals**
-and press **提交審核 / Submit for review**. That opens an issue here with your
-change in it. A maintainer reviews it and applies it; it then appears in the
-change log under your name.
+Press **✎ 試用編輯 / Try editing** on the site. Every tool the editors use
+works — people, events, sources, itineraries, cities, borders, rivers and
+mountains — and your changes are drawn on your map straight away. This copy is
+a sandbox: nothing is saved or sent anywhere, and reloading the page clears
+your changes. (Moving a city does not redraw the borders around it, and
+deleting a border change does not erase it from the map; both need the full
+platform.)
 
-Please give your source (the history and chapter) in the note. Quotations
-should be copied from the text itself, not from memory.
+Corrections are welcome: open an issue here with the change and its source
+(the history and chapter). Quotations should be copied from the text itself,
+not from memory.
