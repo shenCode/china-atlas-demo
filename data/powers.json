@@ -1283,5 +1283,65 @@
   "en": "Jibei (Tian An)",
   "color": "#7faf8a",
   "kind": "warlord"
+ },
+ "chu-lin": {
+  "zh": "楚（林士弘）",
+  "en": "Chu (Lin Shihong)",
+  "color": "#8a6a9a",
+  "kind": "warlord"
+ },
+ "du-fuwei-p": {
+  "zh": "杜伏威",
+  "en": "Du Fuwei",
+  "color": "#6a8a6a",
+  "kind": "warlord"
+ },
+ "changle": {
+  "zh": "長樂王（竇建德）",
+  "en": "Prince of Changle (Dou Jiande)",
+  "color": "#7a8a4a",
+  "kind": "warlord"
+ },
+ "liang-shidu-p": {
+  "zh": "梁師都",
+  "en": "Liang Shidu",
+  "color": "#8a7a5a",
+  "kind": "warlord"
+ },
+ "dingyang": {
+  "zh": "定楊（劉武周）",
+  "en": "Dingyang (Liu Wuzhou)",
+  "color": "#6a6a8a",
+  "kind": "warlord"
+ },
+ "wei-limi": {
+  "zh": "魏公（李密）",
+  "en": "Duke of Wei (Li Mi)",
+  "color": "#a0603c",
+  "kind": "warlord"
+ },
+ "qin-xueju": {
+  "zh": "秦（薛舉）",
+  "en": "Qin (Xue Ju)",
+  "color": "#9a5a5a",
+  "kind": "warlord"
+ },
+ "liang-ligui": {
+  "zh": "涼（李軌）",
+  "en": "Liang (Li Gui)",
+  "color": "#5a8a8a",
+  "kind": "warlord"
+ },
+ "liang-xiaoxian": {
+  "zh": "梁（蕭銑）",
+  "en": "Liang (Xiao Xian)",
+  "color": "#6a7aa0",
+  "kind": "warlord"
+ },
+ "wang-shichong-p": {
+  "zh": "王世充（東都）",
+  "en": "Wang Shichong (Luoyang)",
+  "color": "#8a6a4a",
+  "kind": "warlord"
  }
 }
