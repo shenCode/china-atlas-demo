@@ -1175,5 +1175,113 @@
   "en": "Lu Fang",
   "color": "#7a6a8a",
   "kind": "warlord"
+ },
+ "yong": {
+  "zh": "雍（章邯）",
+  "en": "Yong (Zhang Han)",
+  "color": "#5a5a6a",
+  "kind": "warlord"
+ },
+ "sai": {
+  "zh": "塞（司馬欣）",
+  "en": "Sai (Sima Xin)",
+  "color": "#6a6a5a",
+  "kind": "warlord"
+ },
+ "zhai": {
+  "zh": "翟（董翳）",
+  "en": "Zhai (Dong Yi)",
+  "color": "#7a6a5a",
+  "kind": "warlord"
+ },
+ "xiwei": {
+  "zh": "西魏（魏豹）",
+  "en": "Western Wei (Wei Bao)",
+  "color": "#6f8fb0",
+  "kind": "warlord"
+ },
+ "henan-k": {
+  "zh": "河南（申陽）",
+  "en": "Henan (Shen Yang)",
+  "color": "#8a7aa0",
+  "kind": "warlord"
+ },
+ "han-k": {
+  "zh": "韓（韓成）",
+  "en": "Han (King Cheng)",
+  "color": "#a07a6a",
+  "kind": "warlord"
+ },
+ "yin": {
+  "zh": "殷（司馬卬）",
+  "en": "Yin (Sima Ang)",
+  "color": "#7a9a8a",
+  "kind": "warlord"
+ },
+ "dai-k": {
+  "zh": "代（趙歇）",
+  "en": "Dai (Zhao Xie)",
+  "color": "#9a8f5a",
+  "kind": "warlord"
+ },
+ "changshan": {
+  "zh": "常山（張耳）",
+  "en": "Changshan (Zhang Er)",
+  "color": "#7f6fa8",
+  "kind": "warlord"
+ },
+ "zhao-k": {
+  "zh": "趙（趙歇）",
+  "en": "Zhao (Zhao Xie)",
+  "color": "#6f5f9a",
+  "kind": "warlord"
+ },
+ "jiujiang": {
+  "zh": "九江（黥布）",
+  "en": "Jiujiang (Qing Bu)",
+  "color": "#6f6f96",
+  "kind": "warlord"
+ },
+ "hengshan": {
+  "zh": "衡山（吳芮）",
+  "en": "Hengshan (Wu Rui)",
+  "color": "#5f9a7a",
+  "kind": "warlord"
+ },
+ "linjiang": {
+  "zh": "臨江（共敖）",
+  "en": "Linjiang (Gong Ao)",
+  "color": "#8f9f5f",
+  "kind": "warlord"
+ },
+ "liaodong-k": {
+  "zh": "遼東（韓廣）",
+  "en": "Liaodong (Han Guang)",
+  "color": "#5f8a9a",
+  "kind": "warlord"
+ },
+ "yan-k": {
+  "zh": "燕（臧荼）",
+  "en": "Yan (Zang Tu)",
+  "color": "#4f7f7f",
+  "kind": "warlord"
+ },
+ "jiaodong": {
+  "zh": "膠東（田市）",
+  "en": "Jiaodong (Tian Shi)",
+  "color": "#5faf9a",
+  "kind": "warlord"
+ },
+ "qi-k": {
+  "zh": "齊（田氏）",
+  "en": "Qi (the Tian)",
+  "color": "#4f9a7a",
+  "kind": "warlord"
+ },
+ "jibei-k": {
+  "zh": "濟北（田安）",
+  "en": "Jibei (Tian An)",
+  "color": "#7faf8a",
+  "kind": "warlord"
  }
 }
