@@ -1097,5 +1097,83 @@
   "color": "#5f4f3f",
   "kind": "state",
   "bloc": "n"
+ },
+ "gengshi": {
+  "zh": "漢（更始）",
+  "en": "Han (Gengshi emperor)",
+  "color": "#b07a4a",
+  "kind": "state"
+ },
+ "wang-lang": {
+  "zh": "漢（王郎）",
+  "en": "Han (Wang Lang)",
+  "color": "#8a6a9a",
+  "kind": "warlord"
+ },
+ "chimei": {
+  "zh": "赤眉（劉盆子）",
+  "en": "Red Eyebrows (Liu Penzi)",
+  "color": "#a8483a",
+  "kind": "warlord"
+ },
+ "liu-yong": {
+  "zh": "梁（劉永）",
+  "en": "Liang (Liu Yong)",
+  "color": "#6a86b0",
+  "kind": "warlord"
+ },
+ "zhang-bu": {
+  "zh": "齊（張步）",
+  "en": "Qi (Zhang Bu)",
+  "color": "#4f9a8a",
+  "kind": "warlord"
+ },
+ "dong-xian": {
+  "zh": "海西（董憲）",
+  "en": "Haixi (Dong Xian)",
+  "color": "#6a6fa8",
+  "kind": "warlord"
+ },
+ "li-xian": {
+  "zh": "淮南（李憲）",
+  "en": "Huainan (Li Xian)",
+  "color": "#9a8a4a",
+  "kind": "warlord"
+ },
+ "qin-feng": {
+  "zh": "楚黎（秦豐）",
+  "en": "Chuli (Qin Feng)",
+  "color": "#8a5f4a",
+  "kind": "warlord"
+ },
+ "tian-rong": {
+  "zh": "田戎",
+  "en": "Tian Rong",
+  "color": "#7a7a5a",
+  "kind": "warlord"
+ },
+ "peng-chong": {
+  "zh": "燕（彭寵）",
+  "en": "Yan (Peng Chong)",
+  "color": "#5f8a6a",
+  "kind": "warlord"
+ },
+ "wei-ao": {
+  "zh": "西州（隗囂）",
+  "en": "Western Province (Wei Xiao)",
+  "color": "#9a6a7a",
+  "kind": "warlord"
+ },
+ "dou-rong": {
+  "zh": "河西（竇融）",
+  "en": "Hexi (Dou Rong)",
+  "color": "#6aa0a0",
+  "kind": "local"
+ },
+ "lu-fang": {
+  "zh": "盧芳",
+  "en": "Lu Fang",
+  "color": "#7a6a8a",
+  "kind": "warlord"
  }
 }
