@@ -1343,5 +1343,11 @@
   "en": "Wang Shichong (Luoyang)",
   "color": "#8a6a4a",
   "kind": "warlord"
+ },
+ "zheng-sisters": {
+  "zh": "徵側",
+  "en": "Zheng Ce (Trưng Trắc)",
+  "color": "#5f8a6a",
+  "kind": "local"
  }
 }
