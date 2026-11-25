@@ -1355,5 +1355,53 @@
   "en": "Yellow Turbans",
   "color": "#c4aa3c",
   "kind": "local"
+ },
+ "baling-p": {
+  "zh": "沃野（破落汗拔陵）",
+  "en": "Woye (Poluohan Baling)",
+  "color": "#7a6a50",
+  "kind": "warlord"
+ },
+ "moqi-p": {
+  "zh": "秦（莫折念生）",
+  "en": "Qin (Mozhe Niansheng)",
+  "color": "#8a5a5a",
+  "kind": "warlord"
+ },
+ "wanqi-p": {
+  "zh": "高平（万俟醜奴）",
+  "en": "Gaoping (Moqi Chounu)",
+  "color": "#6a5a8a",
+  "kind": "warlord"
+ },
+ "du-luozhou-p": {
+  "zh": "杜洛周（上谷）",
+  "en": "Du Luozhou (Shanggu)",
+  "color": "#5a7a6a",
+  "kind": "warlord"
+ },
+ "ge-rong-p": {
+  "zh": "齊（葛榮）",
+  "en": "Qi (Ge Rong)",
+  "color": "#9a7a4a",
+  "kind": "warlord"
+ },
+ "han-lou-p": {
+  "zh": "韓樓（幽州）",
+  "en": "Han Lou (You province)",
+  "color": "#7a7a5a",
+  "kind": "warlord"
+ },
+ "xiao-baoyin-p": {
+  "zh": "齊（蕭寶夤）",
+  "en": "Qi (Xiao Baoyin)",
+  "color": "#5a6a8a",
+  "kind": "warlord"
+ },
+ "xing-gao-p": {
+  "zh": "漢（邢杲）",
+  "en": "Han (Xing Gao)",
+  "color": "#8a6a7a",
+  "kind": "warlord"
  }
 }
