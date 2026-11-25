@@ -1415,5 +1415,17 @@
   "en": "Wang Qian (Yi province)",
   "color": "#6a6a8a",
   "kind": "warlord"
+ },
+ "qi-li": {
+  "zh": "岐（李茂貞）",
+  "en": "Qi (Li Maozhen)",
+  "color": "#7d6a8f",
+  "kind": "state"
+ },
+ "wuping": {
+  "zh": "湖南（武平·周行逢）",
+  "en": "Hunan (Wuping, Zhou Xingfeng)",
+  "color": "#a07a5a",
+  "kind": "state"
  }
 }
