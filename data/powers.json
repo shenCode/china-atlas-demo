@@ -1403,5 +1403,17 @@
   "en": "Han (Xing Gao)",
   "color": "#8a6a7a",
   "kind": "warlord"
+ },
+ "yuchi-jiong-p": {
+  "zh": "尉遲迥（相州）",
+  "en": "Yuchi Jiong (Xiang province)",
+  "color": "#8a7a4a",
+  "kind": "warlord"
+ },
+ "wang-qian-p": {
+  "zh": "王謙（益州）",
+  "en": "Wang Qian (Yi province)",
+  "color": "#6a6a8a",
+  "kind": "warlord"
  }
 }
