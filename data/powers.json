@@ -1349,5 +1349,11 @@
   "en": "Zheng Ce (Trưng Trắc)",
   "color": "#5f8a6a",
   "kind": "local"
+ },
+ "yellow-turbans": {
+  "zh": "黃巾",
+  "en": "Yellow Turbans",
+  "color": "#c4aa3c",
+  "kind": "local"
  }
 }
