@@ -1,239 +1,239 @@
-# Changelog · 更新記錄
+# 更新記錄
 
-What changed in 華夏歷史輿圖 (the Historical Atlas of China), newest first. The
-reasons behind each change are in `docs/DECISIONS.md` under the numbers given.
+《華夏歷史輿圖》每一版改了甚麼，新的在前。每項改動的緣由記在
+`docs/DECISIONS.md`，括號裏是那裏的編號。
 
-## How versions are numbered
+## 版本號怎麼定
 
-`MAJOR.MINOR.PATCH`, for example `0.20.0`.
+`主.次.修`，例如 `0.23.0`。
 
-- **MINOR** goes up when there is something new to see or do: a view, a tool,
-  a new body of records (a set of battles, a group of families).
-- **PATCH** goes up for fixes, corrections to records, and small additions to
-  what is already there.
-- **MAJOR** is `0` until the atlas is launched under its own name and
-  address. That launch is `1.0.0`. After it, MAJOR goes up only when
-  something people already hold would stop working (a shared link, an
-  entry's address) or when the range the atlas covers changes.
+- **次版號**：有新的東西可看、可用時加一——一個視角、一件工具、一批新的記載
+  （一組戰役、一批家族）。
+- **修訂號**：修正錯誤、訂正記載、在已有的東西上小幅增補時加一。
+- **主版號**：在輿圖以自己的名字和網址正式發布之前一直是 `0`，正式發布即
+  `1.0.0`。此後只有在讀者手上已有的東西會失效（分享出去的連結、條目的網址），
+  或輿圖涵蓋的年代範圍改變時，主版號才加一。
 
-Every published change gets a version: the number in `package.json`, an entry
-here, and a tag `vX.Y.Z` on the commit. The version is shown beside the
-atlas's name on the page. Versions before `0.20.0` were assigned afterwards,
-from the history of the work: one for each stretch that gave readers
-something new, tagged on the last commit of that stretch.
+每一次發布都有一個版本：`package.json` 裏的版本號、這裏的一條記錄、提交上的
+標籤 `vX.Y.Z`。版本號顯示在頁面上輿圖名稱的旁邊。`0.20.0` 以前的版本是事後
+依工作的經過補定的：每一段給讀者帶來新東西的工作算一版，標在那一段的最後一次
+提交上。
 
-Records can also be corrected through 參與編輯; those changes are listed
-entry by entry in the atlas's own history (變更記錄), not here.
+記載也可以經「參與編輯」訂正；那些改動逐條列在輿圖自己的變更記錄裏，不在此處。
+
+## 0.23.0 · 2026-11-25
+家譜動起來；旗上有字。（#102）
+
+### 新增
+- 家譜全螢幕逐年推進：‹ › 一次一年，▶ 一年一年播放，不跳過任何一年；
+  ⇤ ⇥ 跳到上一次、下一次有人出生或去世的年份。
+- 已故的人整格打上紅叉，並依死因各有標記：卒、殺（被殺）、誅（被誅）、
+  賜（賜死）、自（自殺）、？（死因未錄或不詳）；附圖例。
+- 帝位傳承的箭頭是流動的，最近一次傳承有一點沿箭頭行進；殺害者到被害者的
+  紅線也是流動的；在位者的方框有光暈；新生的人連線畫入。
+- 家譜可放大縮小（－ ＋），全螢幕預設放大。
+- 戰旗上標出一方的名字：黃巾的「黃」、宋的「宋」、金的「金」。史書沒有分出
+  勝負的戰事，雙方的旗隔著戰場相對。
+
+### 變更
+- 家譜的方框和字都加大了。
+- 這份更新記錄改用繁體中文。
+
+### 修正
+- 殺害者在譜上而記載未連上的（約三十處，如李世民之於李建成），現在畫得出
+  那條線。
 
 ## 0.22.0 · 2026-11-25
-Banners, and the colour of the age. (#101)
+戰旗，與一代的顏色。（#101）
 
-### Added
-- A banner for each side of a battle: in the caption, in the chronicle, and
-  planted on the map where it was fought; the victor's flies, the loser's is
-  lowered. The colour is the one the histories record for that power where
-  they record one (秦 black, 劉邦 red, 隋 red, 宋 red, 金 white, the 黃巾 yellow…),
-  otherwise its colour on the map; the hint says which, with the sentence.
-- The colour of the age: a seal beside the atlas's name and a line under the
-  top bar, from what the dynasty recorded of itself. Click the seal for the
-  sentence.
-- 史源 lists the sixteen records under 服色.
+### 新增
+- 戰事的每一方有一面旗：在字幕、紀事裏，也插在地圖上交戰的地方；勝者的旗
+  飄揚，敗者的旗倒下。史書記了那一方顏色的，用所記的顏色（秦黑、劉邦赤、
+  隋赤、宋赤、金白、黃巾黃……），沒有記的用它在地圖上的顏色；提示會說明是
+  哪一種，並附原文。
+- 一代的顏色：輿圖名稱旁的印記和頁首下的一條色線，出自該朝自己的記載。
+  點印記看原文。
+- 史源在「服色」下列出這十六條記載。
 
 ## 0.21.0 · 2026-11-25
-Families beyond the ruling line. (#100)
+帝系之外的家族。（#100）
 
-### Added
-- Founders' forebears, as far up as their histories go: 司馬懿, 高歡, 宇文泰,
-  趙匡胤, 拓跋珪, 李克用, 劉淵, 朱溫, 秦始皇; 蕭道成 to 蕭何, 陳霸先 to 陳寔 and
-  曹操 to 曹參 as the histories claim them.
-- Kin beside the line: 劉邦's nephew 劉濞, his grandsons, 戚夫人 and 薄姬;
-  曹操's sons, daughters and cousins.
-- 漢初功臣 (蕭何, 韓信, 張良 and eleven more), 項羽's house, the 夏侯 of 譙, 長孫氏.
-- Marriages that join trees: 曹操 and 夏侯惇, 劉備 and 孫權, 李世民 and 宇文邕
-  can now be found in 與他人的關係.
+### 新增
+- 開國者的先世，上溯到史書所載為止：司馬懿、高歡、宇文泰、趙匡胤、拓跋珪、
+  李克用、劉淵、朱溫、秦始皇；蕭道成至蕭何、陳霸先至陳寔、曹操至曹參，照
+  史書自己的說法收錄。
+- 帝系旁邊的親屬：劉邦的侄子劉濞、他的孫輩、戚夫人與薄姬；曹操的子女與
+  從兄弟。
+- 漢初功臣（蕭何、韓信、張良等十四人）、項羽一家、譙縣夏侯氏、長孫氏。
+- 把各譜連起來的婚姻：曹操與夏侯惇、劉備與孫權、李世民與宇文邕，現在可以
+  在「與他人的關係」裏查到。
 
-### Fixed
-- A cousin or kinsman (從弟, 族子) is drawn in their generation with the
-  record's own word, instead of as someone's son.
+### 修正
+- 從弟、族子這類親屬，照史書原來的稱呼畫在同輩的位置，不再當作某人的兒子。
 
 ## 0.20.0 · 2026-11-25
 
-### Changed
-- The time bar: the buttons that step through the years are large and stand
-  at the two ends of the bar; the row of dynasties is one ruler of the whole
-  range with short names, the era on screen marked, instead of a row of
-  chips that had to be paged. (#99)
+### 變更
+- 時間列：逐年前後的按鈕加大，放在時間列的兩端；朝代改成一條貫通全程的
+  標尺，用簡稱，標出當前所在的時代，不再是要翻頁的一排小方塊。（#99）
 
-### Added
-- This changelog, a version number, and the version shown beside the atlas's
-  name. (#99)
+### 新增
+- 這份更新記錄、版本號，以及顯示在輿圖名稱旁的版本。（#99）
 
 ## 0.19.0 · 2026-11-25
-Families of the Sixteen Kingdoms and the Ten Kingdoms. (#98)
+十六國與十國的家族。（#98）
 
-### Added
-- Thirteen houses of the Sixteen Kingdoms; 後晉, 後漢 with 北漢, and nine of
-  the Ten Kingdoms, as rulers and the line between them.
-- 太原王氏 and 清河崔氏, with their Northern Wei branches.
-- Fifteen more years of birth confirmed from the emperors' own annals.
+### 新增
+- 十六國的十三家；後晉、後漢與北漢、十國中的九國：君主及其間的世系。
+- 太原王氏與清河崔氏，連同他們在北魏的支派。
+- 又有十五個生年從帝紀本身得到印證。
 
 ## 0.18.0 · 2026-11-25
-詩人行跡. (#97)
+詩人行跡。（#97）
 
-### Added
-- A view for 李白, 杜甫 and 蘇軾: 44 poems, each where it was written, with
-  the poet's road drawn as the years pass and the basis of each date stated.
-- A poet's entry lists their poems.
+### 新增
+- 李白、杜甫、蘇軾的視角：四十四首詩，各標在寫作的地方，詩人的行跡隨年份
+  畫出，每個繫年的依據都有說明。
+- 詩人的條目列出他們的詩。
 
 ## 0.17.0 · 2026-11-25
-Relationships, and births and deaths on the whole screen. (#96)
+關係，與全螢幕的生卒。（#96）
 
-### Added
-- 與他人的關係: how any two people entered are joined, by descent and marriage.
-- The family trees full screen, each person with their years as the timeline
-  moves, "?" where a year is not recorded.
-- 隴西李氏 above 李淵 (李虎, 西涼's 李暠, 李廣) and the 西魏八柱國.
+### 新增
+- 與他人的關係：任何兩個已收錄的人，如何由血緣和婚姻相連。
+- 家譜全螢幕：每人的生卒年隨時間推移，史書不載的年份記「?」。
+- 李淵以上的隴西李氏（李虎、西涼李暠、李廣）與西魏八柱國。
 
 ## 0.16.0 · 2026-11-25
-A faster first visit, and links that show what they lead to. (#94, #95)
+首次打開更快；連結會顯示它通往哪裏。（#94、#95）
 
-### Added
-- A shared link carries a title, a line and a picture of the map.
+### 新增
+- 分享出去的連結帶有標題、一句說明和一張地圖。
 
-### Changed
-- The first screen appears at once and the map in about half the time: the
-  script comes in pieces, and the first data is asked for together.
+### 變更
+- 第一個畫面立刻出現，地圖只需原來一半左右的時間：程式分塊載入，最初的
+  資料一起請求。
 
 ## 0.15.0 · 2026-11-25
-家族 redrawn as trees. (#93)
+家族改畫成樹。（#93）
 
-### Changed
-- 家族 shows every family with someone living at the moment, as drawn trees;
-  details only when a person is opened.
+### 變更
+- 「家族」把此時有人在世的每一家畫成樹；打開某人才看細節。
 
-### Added
-- Houses the histories join are one tree (劉邦 to 光武, 劉備 and 劉裕; 蘭陵蕭氏;
-  弘農楊氏 to 隋), with a broken line where the generations are not recorded.
-- 世家, a view that follows one great family's story; 琅邪王氏 and 弘農楊氏.
+### 新增
+- 史書說相承的各家畫成一棵樹（劉邦至光武、劉備、劉裕；蘭陵蕭氏；弘農楊氏
+  至隋），世數不載之處用虛線。
+- 世家：跟著一個大族看它的故事的視角；琅邪王氏與弘農楊氏。
 
 ## 0.14.0 · 2026-11-25
-家族. (#90, #91, #92)
+家族。（#90、#91、#92）
 
-### Added
-- Families at the side of the map: who was whose child, how the throne
-  passed, how each person ended and at whose hands, each with its sentence.
-  Thirty-nine families.
+### 新增
+- 地圖旁的家族：誰是誰的子女、帝位如何傳承、每人如何結局、死於誰手，各附
+  原文。共三十九家。
 
-### Fixed
-- Lines between areas no longer run out across the sea.
-- The map's credit button is gone; the credit is on the opening screen.
+### 修正
+- 區域之間的界線不再畫到海上。
+- 地圖上的出處按鈕移除，出處寫在開始畫面。
 
 ## 0.13.0 · 2026-11-25
-Phones, and the people of each event. (#89)
+手機，與每件事裏的人。（#89）
 
-### Added
-- A layout for phones and folding phones.
-- Each event lists the people in it; any of them can be opened or followed.
+### 新增
+- 手機與摺疊手機的版面。
+- 每件事列出其中的人物，可以打開或跟隨。
 
 ## 0.12.0 · 2026-11-25
-此時大事, and how the population moved. (#88)
+此時大事，與人口的移動。（#88）
 
-### Added
-- What is under way at the moment, above the time bar.
-- Population change between censuses, the centre of population, and 38
-  recorded migrations drawn as arrows.
+### 新增
+- 時間列上方顯示此刻正在發生的事。
+- 兩次戶口統計之間的增減、人口重心，以及三十八次見於記載的遷徙（畫成箭頭）。
 
 ## 0.11.0 · 2026-11-25
-简体, and a view for territory alone. (#85, #86, #87)
+简体，與只看疆域的視角。（#85、#86、#87）
 
-### Added
-- A simplified-character version (traditional stays the default).
-- 疆域變遷: every change of territory, without the battles.
+### 新增
+- 簡體字版（預設仍是繁體）。
+- 疆域變遷：每一次疆域的變動，不看戰事。
 
-### Changed
-- Playback no longer waits where nothing is recorded.
+### 變更
+- 播放時不再在沒有記載的地方停留。
 
 ## 0.10.0 · 2026-11-25
-Prefectures, and a page to audit the sources. (#81, #82, #83, #84)
+州一級的疆域，與查核史源的一頁。（#81、#82、#83、#84）
 
-### Added
-- Tang to Song by prefecture; the Five Dynasties and Ten Kingdoms and the
-  Song–Jin wars drawn at that scale.
-- 史源: everything the atlas quotes, listed for checking against the books.
+### 新增
+- 唐至宋以州為單位；五代十國與宋金戰爭畫到這個尺度。
+- 史源：輿圖引用的所有文字，列出來供對照原書。
 
 ## 0.9.0 · 2026-11-25
-Views, and deeper records. (#75, #76, #77, #78, #79, #80)
+視角，與更深的記載。（#75–#80）
 
-### Added
-- 視角: follow wars, disasters, population, the land, Buddhism or trade.
-- 187 disasters, household totals, Buddhist sites, trade routes; reign lists
-  for 44 more courts; the source's own words for 121 border changes.
+### 新增
+- 視角：跟著戰事、災異、人口、山川工程、佛教或商路來看。
+- 一百八十七次災異、戶口總數、佛教寺窟、商路；另外四十四個朝廷的在位表；
+  一百二十一次疆域變動的史書原文。
 
-### Changed
-- A calmer Watch bar and a more natural reading voice.
+### 變更
+- 觀史的控制列更簡潔，朗讀的語氣更自然。
 
 ## 0.8.0 · 2026-11-25
-Sharing, and ways to read the map. (#69, #70, #71, #72, #73, #74)
+分享，與讀圖的方法。（#69–#74）
 
-### Added
-- A link to a moment; a strip showing how much is recorded in each era.
-- 精華, a run of about a hundred turning points.
-- The chart of rise and fall; one place through time; following a person's
-  life; captions read aloud; two years side by side; who reigns now.
-- Layers for trade routes, Buddhism and disasters.
+### 新增
+- 通往某一刻的連結；一條顯示各時代記載多寡的色帶。
+- 精華：約一百個轉折點連成的一趟。
+- 興衰圖；一地的古今；跟隨一個人的一生；字幕朗讀；兩個年份並排；此時誰在位。
+- 商路、佛教、災異的圖層。
 
 ## 0.7.0 · 2026-11-24
-觀史: the atlas plays. (#62, #63, #64, #65, #66, #67, #68)
+觀史：輿圖自己播放。（#62–#68）
 
-### Added
-- Watch mode, with a camera, captions and playback paced by events; battles
-  play out along their routes.
-- A hint on everything that can be clicked; answers open at the right.
+### 新增
+- 觀史模式：鏡頭、字幕、依事件快慢的播放；戰事沿行軍路線演出。
+- 凡是可以點的東西都有提示；答案在右側打開。
 
-### Changed
-- 3D and playback made faster, from measurements.
+### 變更
+- 依實測加快了立體地形與播放。
 
 ## 0.6.0 · 2026-11-24
-Population, relief and 3D. (#58, #59, #60, #61)
+人口、地形與立體。（#58–#61）
 
-### Added
-- Census households as dots, from the Han treatises to Tang and Song.
-- Shaded relief and a 3D view.
+### 新增
+- 戶口數畫成點，從兩漢的地理志到唐、宋。
+- 地形暈渲與立體視圖。
 
 ## 0.5.0 · 2026-11-24
-秦 to 隋 fought through. (#41 to #57)
+秦至隋的戰事。（#41–#57）
 
-### Added
-- Several hundred battles with routes and sources, from the fall of 秦 to the
-  end of 隋, month by month in the busiest stretches.
-- Playback speed.
+### 新增
+- 數百場戰役，附路線與出處，從秦亡到隋末；戰事最密的幾段逐月呈現。
+- 播放速度。
 
 ## 0.4.0 · 2026-11-22
-Battles behind the border changes. (#37, #38, #39, #40)
+疆域變動背後的戰事。（#37–#40）
 
-### Added
-- The battle behind each change of border, with arrows along the routes the
-  sources give.
+### 新增
+- 每一次疆域變動背後的戰役，沿史料所記的路線畫出箭頭。
 
 ## 0.3.0 · 2026-11-21
-The map changes as it is watched. (#21 to #36)
+地圖在眼前變化。（#21–#36）
 
-### Added
-- Strategic passes; provinces and circuits that change over time; rivers,
-  canals, walls and lakes with their dates.
-- Border and province changes played out; nominal and actual control as two
-  layers; arrows for who advanced where.
+### 新增
+- 關隘；隨時間改變的州郡與道路；有年代的河流、運河、長城與湖泊。
+- 疆域與州郡的變動可以播放；名義控制與實際控制分為兩層；標出誰向哪裏推進
+  的箭頭。
 
 ## 0.2.0 · 2026-11-21
-The whole range. (#15 to #20)
+全部年代。（#15–#20）
 
-### Added
-- 770 BCE to 1279 in overview, with a time bar in eras, a chronicle and a
-  page for each dynasty.
+### 新增
+- 前770年至1279年的概覽，附分時代的時間列、紀事，以及每個朝代的一頁。
 
 ## 0.1.0 · 2026-11-15
-The Three Kingdoms slice. (#1 to #14)
+三國的一段。（#1–#14）
 
-### Added
-- 180 to 280 on a map of commandery seats: territories, people, events and
-  sources, a timeline in months, and tools for anyone to correct a record.
+### 新增
+- 180年至280年，畫在郡治的地圖上：疆域、人物、事件與出處，逐月的時間列，
+  以及任何人都可以訂正記載的工具。
