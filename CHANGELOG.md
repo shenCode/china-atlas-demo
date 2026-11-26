@@ -25,6 +25,23 @@ something new, tagged on the last commit of that stretch.
 Records can also be corrected through 參與編輯; those changes are listed
 entry by entry in the atlas's own history (變更記錄), not here.
 
+## 0.21.0 · 2026-11-25
+Families beyond the ruling line. (#100)
+
+### Added
+- Founders' forebears, as far up as their histories go: 司馬懿, 高歡, 宇文泰,
+  趙匡胤, 拓跋珪, 李克用, 劉淵, 朱溫, 秦始皇; 蕭道成 to 蕭何, 陳霸先 to 陳寔 and
+  曹操 to 曹參 as the histories claim them.
+- Kin beside the line: 劉邦's nephew 劉濞, his grandsons, 戚夫人 and 薄姬;
+  曹操's sons, daughters and cousins.
+- 漢初功臣 (蕭何, 韓信, 張良 and eleven more), 項羽's house, the 夏侯 of 譙, 長孫氏.
+- Marriages that join trees: 曹操 and 夏侯惇, 劉備 and 孫權, 李世民 and 宇文邕
+  can now be found in 與他人的關係.
+
+### Fixed
+- A cousin or kinsman (從弟, 族子) is drawn in their generation with the
+  record's own word, instead of as someone's son.
+
 ## 0.20.0 · 2026-11-25
 
 ### Changed
