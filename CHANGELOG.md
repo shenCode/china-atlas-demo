@@ -25,6 +25,20 @@ something new, tagged on the last commit of that stretch.
 Records can also be corrected through 參與編輯; those changes are listed
 entry by entry in the atlas's own history (變更記錄), not here.
 
+## 0.22.0 · 2026-11-25
+Banners, and the colour of the age. (#101)
+
+### Added
+- A banner for each side of a battle: in the caption, in the chronicle, and
+  planted on the map where it was fought; the victor's flies, the loser's is
+  lowered. The colour is the one the histories record for that power where
+  they record one (秦 black, 劉邦 red, 隋 red, 宋 red, 金 white, the 黃巾 yellow…),
+  otherwise its colour on the map; the hint says which, with the sentence.
+- The colour of the age: a seal beside the atlas's name and a line under the
+  top bar, from what the dynasty recorded of itself. Click the seal for the
+  sentence.
+- 史源 lists the sixteen records under 服色.
+
 ## 0.21.0 · 2026-11-25
 Families beyond the ruling line. (#100)
 
