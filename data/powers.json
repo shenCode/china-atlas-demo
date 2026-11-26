@@ -2,671 +2,671 @@
  "han": {
   "zh": "漢",
   "en": "Han",
-  "color": "#a08858",
+  "color": "#b3261e",
   "kind": "state"
  },
  "wei": {
   "zh": "魏",
   "en": "Wei",
-  "color": "#4f6fae",
+  "color": "#d9a514",
   "kind": "state"
  },
  "shu": {
   "zh": "蜀漢",
   "en": "Shu Han",
-  "color": "#3f8f5f",
+  "color": "#2f8f3a",
   "kind": "state"
  },
  "wu": {
   "zh": "吳",
   "en": "Wu",
-  "color": "#b5544c",
+  "color": "#6b93e0",
   "kind": "state"
  },
  "jin": {
   "zh": "晉",
   "en": "Jin",
-  "color": "#7a5fa0",
+  "color": "#7d1a45",
   "kind": "state"
  },
  "cao-cao": {
   "zh": "曹操",
   "en": "Cao Cao",
-  "color": "#4f6fae",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "liu-bei": {
   "zh": "劉備",
   "en": "Liu Bei",
-  "color": "#3f8f5f",
+  "color": "#4a3fb0",
   "kind": "warlord"
  },
  "sun": {
   "zh": "孫氏",
   "en": "Sun family",
-  "color": "#b5544c",
+  "color": "#e06ab8",
   "kind": "warlord"
  },
  "dong-zhuo": {
   "zh": "董卓",
   "en": "Dong Zhuo",
-  "color": "#6b4f3a",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "li-jue": {
   "zh": "李傕·郭汜",
   "en": "Li Jue & Guo Si",
-  "color": "#7d5a45",
+  "color": "#a8c040",
   "kind": "warlord"
  },
  "yuan-shao": {
   "zh": "袁紹",
   "en": "Yuan Shao",
-  "color": "#c9a227",
+  "color": "#63b860",
   "kind": "warlord"
  },
  "yuan-shu": {
   "zh": "袁術",
   "en": "Yuan Shu",
-  "color": "#d2783c",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "gongsun-zan": {
   "zh": "公孫瓚",
   "en": "Gongsun Zan",
-  "color": "#2f8f9d",
+  "color": "#4a3fb0",
   "kind": "warlord"
  },
  "lu-bu": {
   "zh": "呂布",
   "en": "Lü Bu",
-  "color": "#a34a8f",
+  "color": "#a8c040",
   "kind": "warlord"
  },
  "tao-qian": {
   "zh": "陶謙",
   "en": "Tao Qian",
-  "color": "#7c8f3a",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "liu-biao": {
   "zh": "劉表",
   "en": "Liu Biao",
-  "color": "#56a38c",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "liu-zhang": {
   "zh": "劉璋",
   "en": "Liu Zhang",
-  "color": "#9aae3f",
+  "color": "#a8c040",
   "kind": "warlord"
  },
  "zhang-lu": {
   "zh": "張魯",
   "en": "Zhang Lu",
-  "color": "#8f7fc4",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "ma-han": {
   "zh": "馬騰·韓遂",
   "en": "Ma Teng & Han Sui",
-  "color": "#b0705a",
+  "color": "#e06ab8",
   "kind": "warlord"
  },
  "gongsun-du": {
   "zh": "公孫度",
   "en": "Gongsun Du",
-  "color": "#3d7ea6",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "shi-xie": {
   "zh": "士燮",
   "en": "Shi Xie",
-  "color": "#c7799b",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "coalition": {
   "zh": "關東諸將",
   "en": "Guandong coalition",
-  "color": "#9a9788",
+  "color": "#a8c040",
   "kind": "local"
  },
  "yu-local": {
   "zh": "豫州諸郡國",
   "en": "Yu commanderies",
-  "color": "#9a9788",
+  "color": "#e06ab8",
   "kind": "local"
  },
  "han-fu": {
   "zh": "韓馥",
   "en": "Han Fu",
-  "color": "#9a9788",
+  "color": "#7a4a22",
   "kind": "local"
  },
  "liu-yu": {
   "zh": "劉虞",
   "en": "Liu Yu",
-  "color": "#9a9788",
+  "color": "#1583a8",
   "kind": "local"
  },
  "kong-rong": {
   "zh": "孔融",
   "en": "Kong Rong",
-  "color": "#9a9788",
+  "color": "#e06ab8",
   "kind": "local"
  },
  "qing-turbans": {
   "zh": "青州黃巾",
   "en": "Qing Yellow Turbans",
-  "color": "#9a9788",
+  "color": "#1583a8",
   "kind": "local"
  },
  "heishan": {
   "zh": "黑山·匈奴",
   "en": "Heishan bandits & Xiongnu",
-  "color": "#9a9788",
+  "color": "#e06ab8",
   "kind": "local"
  },
  "zhang-yang": {
   "zh": "張楊",
   "en": "Zhang Yang",
-  "color": "#9a9788",
+  "color": "#7a4a22",
   "kind": "local"
  },
  "hedong-local": {
   "zh": "白波·王邑",
   "en": "Baibo & Wang Yi",
-  "color": "#9a9788",
+  "color": "#7a4a22",
   "kind": "local"
  },
  "zang-ba": {
   "zh": "臧霸",
   "en": "Zang Ba",
-  "color": "#9a9788",
+  "color": "#7a4a22",
   "kind": "local"
  },
  "liu-yao": {
   "zh": "劉繇",
   "en": "Liu Yao",
-  "color": "#9a9788",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "yang-local": {
   "zh": "揚州諸郡",
   "en": "Yang commanderies",
-  "color": "#9a9788",
+  "color": "#1583a8",
   "kind": "local"
  },
  "hexi-local": {
   "zh": "河西諸郡（隔絕）",
   "en": "Hexi commanderies (cut off)",
-  "color": "#9a9788",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "shen-dan": {
   "zh": "申耽",
   "en": "Shen Dan",
-  "color": "#9a9788",
+  "color": "#6b93e0",
   "kind": "local"
  },
  "zhang-xian": {
   "zh": "張羨",
   "en": "Zhang Xian",
-  "color": "#9a9788",
+  "color": "#4a3fb0",
   "kind": "local"
  },
  "wu-ju": {
   "zh": "吳巨",
   "en": "Wu Ju",
-  "color": "#9a9788",
+  "color": "#a8c040",
   "kind": "local"
  },
  "nanzhong-rebels": {
   "zh": "南中叛亂",
   "en": "Nanzhong rebels",
-  "color": "#a36a3a",
+  "color": "#ec7d96",
   "kind": "local"
  },
  "wuhuan": {
   "zh": "三郡烏桓",
   "en": "Wuhuan",
-  "color": "#8d8468",
+  "color": "#e06ab8",
   "kind": "tribal"
  },
  "shanyue": {
   "zh": "山越",
   "en": "Shanyue",
-  "color": "#8d8468",
+  "color": "#7a8f1a",
   "kind": "tribal"
  },
  "con-luoyang": {
   "zh": "洛陽殘破",
   "en": "Luoyang (devastated)",
-  "color": "#555555",
+  "color": "#4a3fb0",
   "kind": "contested"
  },
  "con-jianghuai": {
   "zh": "江淮空地",
   "en": "Jiang–Huai no-man's-land",
-  "color": "#555555",
+  "color": "#63b860",
   "kind": "contested"
  },
  "con-jingmen": {
   "zh": "襄陽—江陵間",
   "en": "Xiangyang–Jiangling gap",
-  "color": "#555555",
+  "color": "#7a4a22",
   "kind": "contested"
  },
  "con-wudu": {
   "zh": "武都（徙民）",
   "en": "Wudu (evacuated)",
-  "color": "#555555",
+  "color": "#ec7d96",
   "kind": "contested"
  },
  "abandoned": {
   "zh": "棄地（匈奴·鮮卑·羌胡）",
   "en": "Abandoned commanderies",
-  "color": "#777777",
+  "color": "#4a3fb0",
   "kind": "abandoned"
  },
  "dongjin": {
   "zh": "東晉",
   "en": "Eastern Jin",
-  "color": "#7a5fa0",
+  "color": "#b3261e",
   "kind": "state",
   "bloc": "s"
  },
  "han-zhao": {
   "zh": "漢（劉淵）",
   "en": "Han (Liu Yuan)",
-  "color": "#9c6b3c",
+  "color": "#6e6e6e",
   "kind": "state",
   "bloc": "n"
  },
  "later-zhao": {
   "zh": "趙（後趙）",
   "en": "Later Zhao",
-  "color": "#8a4f6e",
+  "color": "#1f1f1f",
   "kind": "state",
   "bloc": "n"
  },
  "cheng-han": {
   "zh": "成（李氏）",
   "en": "Cheng (Li clan)",
-  "color": "#a0688f",
+  "color": "#7a8f1a",
   "kind": "state"
  },
  "duan": {
   "zh": "段部鮮卑",
   "en": "Duan Xianbei",
-  "color": "#8d8468",
+  "color": "#8478e0",
   "kind": "tribal"
  },
  "former-liang": {
   "zh": "涼（前涼·張氏）",
   "en": "Former Liang (Zhang clan)",
-  "color": "#5f86a8",
+  "color": "#b02a86",
   "kind": "state"
  },
  "dai": {
   "zh": "代（拓跋）",
   "en": "Dai (Tuoba)",
-  "color": "#8f8a5c",
+  "color": "#7a8f1a",
   "kind": "tribal"
  },
  "former-yan": {
   "zh": "慕容部",
   "en": "Murong Xianbei",
-  "color": "#4f7f7f",
+  "color": "#6e6e6e",
   "kind": "state",
   "bloc": "n"
  },
  "goguryeo": {
   "zh": "高句麗",
   "en": "Goguryeo",
-  "color": "#6f7f9f",
+  "color": "#2a5fb8",
   "kind": "state"
  },
  "former-qin": {
   "zh": "秦（前秦）",
   "en": "Former Qin",
-  "color": "#5c7f3a",
+  "color": "#1f8a6f",
   "kind": "state",
   "bloc": "n"
  },
  "western-yan": {
   "zh": "燕（西燕）",
   "en": "Western Yan",
-  "color": "#5a8f80",
+  "color": "#7a8f1a",
   "kind": "state",
   "bloc": "n"
  },
  "later-yan": {
   "zh": "燕（後燕）",
   "en": "Later Yan",
-  "color": "#3e7f72",
+  "color": "#b874dc",
   "kind": "state",
   "bloc": "n"
  },
  "later-qin": {
   "zh": "秦（後秦）",
   "en": "Later Qin",
-  "color": "#9a8550",
+  "color": "#7d1a45",
   "kind": "state",
   "bloc": "n"
  },
  "later-liang": {
   "zh": "涼（後涼·呂氏）",
   "en": "Later Liang (Lü clan)",
-  "color": "#8796b8",
+  "color": "#7a8f1a",
   "kind": "state"
  },
  "southern-liang": {
   "zh": "涼（南涼）",
   "en": "Southern Liang",
-  "color": "#b0a06a",
+  "color": "#1583a8",
   "kind": "state"
  },
  "northern-liang": {
   "zh": "涼（北涼）",
   "en": "Northern Liang",
-  "color": "#5f9f9f",
+  "color": "#8a35b0",
   "kind": "state"
  },
  "western-liang": {
   "zh": "涼（西涼）",
   "en": "Western Liang",
-  "color": "#9fae6a",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "western-qin": {
   "zh": "秦（西秦）",
   "en": "Western Qin",
-  "color": "#a38f6a",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "southern-yan": {
   "zh": "燕（南燕）",
   "en": "Southern Yan",
-  "color": "#5a9090",
+  "color": "#63b860",
   "kind": "state",
   "bloc": "n"
  },
  "northern-yan": {
   "zh": "燕（北燕）",
   "en": "Northern Yan",
-  "color": "#4f9a7a",
+  "color": "#2f8f3a",
   "kind": "state"
  },
  "xia": {
   "zh": "夏（赫連）",
   "en": "Xia (Helian)",
-  "color": "#a5703a",
+  "color": "#63b860",
   "kind": "state",
   "bloc": "n"
  },
  "western-shu": {
   "zh": "蜀（譙縱）",
   "en": "Western Shu (Qiao Zong)",
-  "color": "#9c6f8f",
+  "color": "#7a8f1a",
   "kind": "warlord"
  },
  "chouchi": {
   "zh": "仇池（楊氏）",
   "en": "Chouchi (Yang clan)",
-  "color": "#7f6a55",
+  "color": "#6b93e0",
   "kind": "local"
  },
  "northern-wei": {
   "zh": "魏（北魏）",
   "en": "Northern Wei",
-  "color": "#4d6d9a",
+  "color": "#d9a514",
   "kind": "state",
   "bloc": "n"
  },
  "song": {
   "zh": "宋（劉宋）",
   "en": "Liu Song",
-  "color": "#b5603a",
+  "color": "#1f1f1f",
   "kind": "state",
   "bloc": "s"
  },
  "qi": {
   "zh": "齊（南齊）",
   "en": "Southern Qi",
-  "color": "#a05a7d",
+  "color": "#1f8a6f",
   "kind": "state",
   "bloc": "s"
  },
  "liang": {
   "zh": "梁",
   "en": "Liang",
-  "color": "#bf8a2c",
+  "color": "#b3261e",
   "kind": "state",
   "bloc": "s"
  },
  "chen": {
   "zh": "陳",
   "en": "Chen",
-  "color": "#a2493a",
+  "color": "#48b4d8",
   "kind": "state",
   "bloc": "s"
  },
  "eastern-wei": {
   "zh": "東魏",
   "en": "Eastern Wei",
-  "color": "#4a6aa8",
+  "color": "#48b4d8",
   "kind": "state",
   "bloc": "n"
  },
  "western-wei": {
   "zh": "西魏",
   "en": "Western Wei",
-  "color": "#6a4f8a",
+  "color": "#2f8f3a",
   "kind": "state",
   "bloc": "n"
  },
  "northern-qi": {
   "zh": "齊（北齊）",
   "en": "Northern Qi",
-  "color": "#3f7a9a",
+  "color": "#b874dc",
   "kind": "state",
   "bloc": "n"
  },
  "northern-zhou": {
   "zh": "周（北周）",
   "en": "Northern Zhou",
-  "color": "#5f4f8f",
+  "color": "#1f1f1f",
   "kind": "state",
   "bloc": "n"
  },
  "sui": {
   "zh": "隋",
   "en": "Sui",
-  "color": "#8f3f3f",
+  "color": "#b3261e",
   "kind": "state",
   "bloc": "n"
  },
  "hou-liang": {
   "zh": "梁（後梁·蕭詧）",
   "en": "Later Liang (Xiao Cha)",
-  "color": "#c09a5a",
+  "color": "#a8c040",
   "kind": "state"
  },
  "hou-jing": {
   "zh": "侯景",
   "en": "Hou Jing",
-  "color": "#5a5a5a",
+  "color": "#1f8a6f",
   "kind": "warlord",
   "bloc": "s"
  },
  "wang-lin": {
   "zh": "王琳",
   "en": "Wang Lin",
-  "color": "#7a6a4a",
+  "color": "#7a4a22",
   "kind": "warlord",
   "bloc": "s"
  },
  "cuan": {
   "zh": "爨氏（南中）",
   "en": "Cuan clan (Nanzhong)",
-  "color": "#8a8a62",
+  "color": "#b874dc",
   "kind": "local"
  },
  "van-xuan": {
   "zh": "萬春（李賁）",
   "en": "Van Xuan (Ly Bi)",
-  "color": "#6f8a62",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "con-heluo": {
   "zh": "河洛爭奪地帶",
   "en": "Contested Luoyang region",
-  "color": "#555555",
+  "color": "#a8c040",
   "kind": "contested"
  },
  "zhou": {
   "zh": "周（王室）",
   "en": "Zhou royal domain",
-  "color": "#b08a3e",
+  "color": "#b3261e",
   "kind": "state"
  },
  "jin-state": {
   "zh": "晉",
   "en": "Jin",
-  "color": "#5f7fb0",
+  "color": "#48b4d8",
   "kind": "state"
  },
  "qi-state": {
   "zh": "齊",
   "en": "Qi",
-  "color": "#3f8f8a",
+  "color": "#ec7d96",
   "kind": "state"
  },
  "lu-state": {
   "zh": "魯",
   "en": "Lu",
-  "color": "#a86a8f",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "song-state": {
   "zh": "宋（周封國）",
   "en": "Song (Zhou state)",
-  "color": "#8f7a3f",
+  "color": "#b02a86",
   "kind": "state"
  },
  "wey": {
   "zh": "衛",
   "en": "Wey",
-  "color": "#6f8f4f",
+  "color": "#ec7d96",
   "kind": "state"
  },
  "zheng": {
   "zh": "鄭",
   "en": "Zheng",
-  "color": "#9f5f4f",
+  "color": "#e06ab8",
   "kind": "state"
  },
  "chen-state": {
   "zh": "陳（周封國）",
   "en": "Chen (Zhou state)",
-  "color": "#7f6faf",
+  "color": "#48b4d8",
   "kind": "state"
  },
  "cai": {
   "zh": "蔡",
   "en": "Cai",
-  "color": "#af8f6f",
+  "color": "#ec7d96",
   "kind": "state"
  },
  "yan-state": {
   "zh": "燕",
   "en": "Yan",
-  "color": "#4f8faf",
+  "color": "#48b4d8",
   "kind": "state"
  },
  "chu": {
   "zh": "楚",
   "en": "Chu",
-  "color": "#b5503a",
+  "color": "#7a8f1a",
   "kind": "state"
  },
  "qin-state": {
   "zh": "秦",
   "en": "Qin",
-  "color": "#3f3f3f",
+  "color": "#1f1f1f",
   "kind": "state"
  },
  "wu-state": {
   "zh": "吳",
   "en": "Wu",
-  "color": "#4f9f6f",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "yue-state": {
   "zh": "越",
   "en": "Yue",
-  "color": "#2f7f5f",
+  "color": "#1583a8",
   "kind": "state"
  },
  "zhongshan": {
   "zh": "中山（鮮虞）",
   "en": "Zhongshan (Xianyu)",
-  "color": "#8f8f5f",
+  "color": "#ec7d96",
   "kind": "state"
  },
  "rong": {
   "zh": "戎",
   "en": "Rong",
-  "color": "#8d8468",
+  "color": "#b874dc",
   "kind": "tribal"
  },
  "di": {
   "zh": "狄",
   "en": "Di",
-  "color": "#8d8468",
+  "color": "#7a8f1a",
   "kind": "tribal"
  },
  "dongyi": {
   "zh": "淮夷·東夷",
   "en": "Huai and Eastern Yi",
-  "color": "#8d8468",
+  "color": "#4a3fb0",
   "kind": "tribal"
  },
  "ba": {
   "zh": "巴",
   "en": "Ba",
-  "color": "#7f5f3f",
+  "color": "#1583a8",
   "kind": "state"
  },
  "shu-kaiming": {
   "zh": "蜀（開明）",
   "en": "Shu (Kaiming)",
-  "color": "#5f7f3f",
+  "color": "#2f8f3a",
   "kind": "state"
  },
  "han-state": {
   "zh": "韓",
   "en": "Han (Warring States)",
-  "color": "#7f5faf",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "zhao": {
   "zh": "趙",
   "en": "Zhao",
-  "color": "#af7f3f",
+  "color": "#8a35b0",
   "kind": "state"
  },
  "wei-state": {
   "zh": "魏（戰國）",
   "en": "Wei (Warring States)",
-  "color": "#3f6f9f",
+  "color": "#2a5fb8",
   "kind": "state"
  },
  "xiongnu": {
   "zh": "匈奴",
   "en": "Xiongnu",
-  "color": "#7a6e58",
+  "color": "#b874dc",
   "kind": "tribal"
  },
  "donghu": {
@@ -684,127 +684,127 @@
  "dian": {
   "zh": "滇",
   "en": "Dian",
-  "color": "#8f6f5f",
+  "color": "#48b4d8",
   "kind": "local"
  },
  "qin-empire": {
   "zh": "秦",
   "en": "Qin",
-  "color": "#2f2f2f",
+  "color": "#6e6e6e",
   "kind": "state"
  },
  "zhang-chu": {
   "zh": "張楚（陳勝）",
   "en": "Zhang Chu (Chen Sheng)",
-  "color": "#9f4f3f",
+  "color": "#c2305a",
   "kind": "warlord"
  },
  "chu-xiang": {
   "zh": "西楚（項羽）",
   "en": "Western Chu (Xiang Yu)",
-  "color": "#b5503a",
+  "color": "#b02a86",
   "kind": "warlord"
  },
  "zhuhou": {
   "zh": "諸侯王（細部未錄）",
   "en": "Kings of the restored states (detail not entered)",
-  "color": "#9a9788",
+  "color": "#a8c040",
   "kind": "local"
  },
  "nanyue": {
   "zh": "南越",
   "en": "Nanyue",
-  "color": "#5f9f7f",
+  "color": "#2f8f3a",
   "kind": "state"
  },
  "minyue": {
   "zh": "閩越",
   "en": "Minyue",
-  "color": "#7f9f6f",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "joseon": {
   "zh": "衛氏朝鮮",
   "en": "Wiman Joseon",
-  "color": "#6f7f9f",
+  "color": "#1583a8",
   "kind": "state"
  },
  "yelang": {
   "zh": "夜郎",
   "en": "Yelang",
-  "color": "#8f7f5f",
+  "color": "#b874dc",
   "kind": "local"
  },
  "xiyu-states": {
   "zh": "西域諸國",
   "en": "States of the Western Regions",
-  "color": "#8f9f7f",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "wusun": {
   "zh": "烏孫",
   "en": "Wusun",
-  "color": "#8d8468",
+  "color": "#6b93e0",
   "kind": "tribal"
  },
  "yuezhi": {
   "zh": "月氏",
   "en": "Yuezhi",
-  "color": "#8d8468",
+  "color": "#7a4a22",
   "kind": "tribal"
  },
  "xin": {
   "zh": "新",
   "en": "Xin",
-  "color": "#7f6a3a",
+  "color": "#d9a514",
   "kind": "state"
  },
  "gongsun-shu": {
   "zh": "成家（公孫述）",
   "en": "Chengjia (Gongsun Shu)",
-  "color": "#7f8f5f",
+  "color": "#6b93e0",
   "kind": "warlord"
  },
  "xianbei-state": {
   "zh": "鮮卑",
   "en": "Xianbei",
-  "color": "#8d8468",
+  "color": "#2a5fb8",
   "kind": "tribal"
  },
  "rouran": {
   "zh": "柔然",
   "en": "Rouran",
-  "color": "#7a6e58",
+  "color": "#7a4a22",
   "kind": "tribal"
  },
  "sui-rebels": {
   "zh": "隋末羣雄（細部未錄）",
   "en": "Rebels at the end of Sui (detail not entered)",
-  "color": "#9a9788",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "steppe-tribes": {
   "zh": "漠北諸部（黠戛斯等）",
   "en": "Steppe peoples after the Uyghurs (Kirghiz and others)",
-  "color": "#8d8468",
+  "color": "#7a4a22",
   "kind": "tribal"
  },
  "tang": {
   "zh": "唐",
   "en": "Tang",
-  "color": "#c08a3a",
+  "color": "#d9a514",
   "kind": "state"
  },
  "tujue-east": {
   "zh": "突厥（東）",
   "en": "Eastern Türks",
-  "color": "#7a6e58",
+  "color": "#6b93e0",
   "kind": "tribal"
  },
  "tujue-west": {
   "zh": "突厥（西）",
   "en": "Western Türks",
-  "color": "#7a6e58",
+  "color": "#c2305a",
   "kind": "tribal"
  },
  "xueyantuo": {
@@ -816,616 +816,616 @@
  "huihu-state": {
   "zh": "回鶻",
   "en": "Uyghur Qaghanate",
-  "color": "#7a6e58",
+  "color": "#2f8f3a",
   "kind": "tribal"
  },
  "tuyuhun": {
   "zh": "吐谷渾",
   "en": "Tuyuhun",
-  "color": "#8f8a6f",
+  "color": "#6b93e0",
   "kind": "state"
  },
  "tubo": {
   "zh": "吐蕃",
   "en": "Tibetan Empire",
-  "color": "#8a5a4a",
+  "color": "#e06ab8",
   "kind": "state"
  },
  "tubo-tribes": {
   "zh": "吐蕃諸部（分裂）",
   "en": "Tibetan tribes (divided)",
-  "color": "#9a8a7a",
+  "color": "#6b93e0",
   "kind": "tribal"
  },
  "gaochang-qu": {
   "zh": "高昌（麴氏）",
   "en": "Gaochang (Qu clan)",
-  "color": "#8f9f7f",
+  "color": "#7a4a22",
   "kind": "local"
  },
  "silla": {
   "zh": "新羅",
   "en": "Silla",
-  "color": "#6f8faf",
+  "color": "#63b860",
   "kind": "state"
  },
  "baekje": {
   "zh": "百濟",
   "en": "Baekje",
-  "color": "#8f7faf",
+  "color": "#8a35b0",
   "kind": "state"
  },
  "balhae": {
   "zh": "渤海",
   "en": "Balhae",
-  "color": "#5f8f9f",
+  "color": "#b02a86",
   "kind": "state"
  },
  "nanzhao": {
   "zh": "南詔",
   "en": "Nanzhao",
-  "color": "#9f7f5f",
+  "color": "#4a3fb0",
   "kind": "state"
  },
  "yan-anshi": {
   "zh": "燕（安祿山·史思明）",
   "en": "Yan (An Lushan, Shi Siming)",
-  "color": "#5a4a3a",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "weibo": {
   "zh": "魏博鎮",
   "en": "Weibo command",
-  "color": "#9a8a6a",
+  "color": "#b02a86",
   "kind": "warlord"
  },
  "chengde": {
   "zh": "成德鎮",
   "en": "Chengde command",
-  "color": "#9a8a6a",
+  "color": "#8a35b0",
   "kind": "warlord"
  },
  "lulong": {
   "zh": "盧龍鎮（幽州）",
   "en": "Lulong command (Youzhou)",
-  "color": "#9a8a6a",
+  "color": "#6b93e0",
   "kind": "warlord"
  },
  "guiyijun": {
   "zh": "歸義軍（沙州）",
   "en": "Guiyi army (Shazhou)",
-  "color": "#7f8f9f",
+  "color": "#8a35b0",
   "kind": "local"
  },
  "huang-chao": {
   "zh": "齊（黃巢）",
   "en": "Qi (Huang Chao)",
-  "color": "#5a5a5a",
+  "color": "#c9ced3",
   "kind": "warlord"
  },
  "later-liang-wudai": {
   "zh": "後梁",
   "en": "Later Liang",
-  "color": "#8f6a3a",
+  "color": "#2f8f3a",
   "kind": "state",
   "bloc": "n"
  },
  "jin-hedong": {
   "zh": "晉（李克用）",
   "en": "Jin (Li Keyong, Hedong)",
-  "color": "#4f5f7f",
+  "color": "#ec7d96",
   "kind": "state",
   "bloc": "n"
  },
  "later-tang": {
   "zh": "後唐",
   "en": "Later Tang",
-  "color": "#b0803a",
+  "color": "#7a4a22",
   "kind": "state",
   "bloc": "n"
  },
  "later-jin": {
   "zh": "後晉",
   "en": "Later Jin",
-  "color": "#6a7f9f",
+  "color": "#c2305a",
   "kind": "state",
   "bloc": "n"
  },
  "later-han": {
   "zh": "後漢",
   "en": "Later Han",
-  "color": "#9f6a5a",
+  "color": "#ec7d96",
   "kind": "state",
   "bloc": "n"
  },
  "later-zhou": {
   "zh": "後周",
   "en": "Later Zhou",
-  "color": "#6a5f8f",
+  "color": "#7a4a22",
   "kind": "state",
   "bloc": "n"
  },
  "wu-yang": {
   "zh": "吳（楊氏）",
   "en": "Wu (Yang clan)",
-  "color": "#4f8f6f",
+  "color": "#6b93e0",
   "kind": "state",
   "bloc": "s"
  },
  "nantang": {
   "zh": "南唐",
   "en": "Southern Tang",
-  "color": "#3f7f6f",
+  "color": "#2f8f3a",
   "kind": "state",
   "bloc": "s"
  },
  "wuyue": {
   "zh": "吳越",
   "en": "Wuyue",
-  "color": "#5f9f9f",
+  "color": "#b02a86",
   "kind": "state",
   "bloc": "s"
  },
  "chu-ma": {
   "zh": "楚（馬殷）",
   "en": "Chu (Ma Yin)",
-  "color": "#9f6f6f",
+  "color": "#4a3fb0",
   "kind": "state"
  },
  "min": {
   "zh": "閩",
   "en": "Min",
-  "color": "#6f9f8f",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "nanhan": {
   "zh": "南漢",
   "en": "Southern Han",
-  "color": "#8f8f4f",
+  "color": "#e06ab8",
   "kind": "state"
  },
  "qianshu": {
   "zh": "前蜀",
   "en": "Former Shu",
-  "color": "#6f8f4f",
+  "color": "#c2305a",
   "kind": "state"
  },
  "houshu": {
   "zh": "後蜀",
   "en": "Later Shu",
-  "color": "#5f8f5f",
+  "color": "#a8c040",
   "kind": "state"
  },
  "jingnan": {
   "zh": "荊南（南平）",
   "en": "Jingnan (Nanping)",
-  "color": "#8f7f6f",
+  "color": "#1583a8",
   "kind": "state"
  },
  "beihan": {
   "zh": "北漢",
   "en": "Northern Han",
-  "color": "#7f5f5f",
+  "color": "#6b93e0",
   "kind": "state"
  },
  "dingnan": {
   "zh": "定難軍（夏州党項）",
   "en": "Dingnan army (Tangut Xiazhou)",
-  "color": "#8f7f5f",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "daiviet": {
   "zh": "交州（吳·丁·黎·李）",
   "en": "Jiaozhou / Đại Việt",
-  "color": "#6f8a62",
+  "color": "#6b93e0",
   "kind": "state"
  },
  "dali": {
   "zh": "大理",
   "en": "Dali",
-  "color": "#9f7f5f",
+  "color": "#8a35b0",
   "kind": "state"
  },
  "goryeo": {
   "zh": "高麗",
   "en": "Goryeo",
-  "color": "#6f8faf",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "khotan": {
   "zh": "于闐（李氏）",
   "en": "Khotan (Li clan)",
-  "color": "#8f9f6f",
+  "color": "#7a8f1a",
   "kind": "local"
  },
  "karakhanid": {
   "zh": "喀喇汗",
   "en": "Kara-Khanid",
-  "color": "#8f8a6f",
+  "color": "#2f8f3a",
   "kind": "state"
  },
  "gaochang-huihu": {
   "zh": "高昌回鶻",
   "en": "Qocho Uyghurs",
-  "color": "#7f8f8f",
+  "color": "#2a5fb8",
   "kind": "local"
  },
  "xiliao": {
   "zh": "西遼",
   "en": "Western Liao (Qara Khitai)",
-  "color": "#4f6f7f",
+  "color": "#7a4a22",
   "kind": "state"
  },
  "liao": {
   "zh": "契丹",
   "en": "Khitan",
-  "color": "#3f5f6f",
+  "color": "#2f8f3a",
   "kind": "state",
   "bloc": "n"
  },
  "zhao-song": {
   "zh": "宋",
   "en": "Song",
-  "color": "#c0704a",
+  "color": "#b3261e",
   "kind": "state",
   "bloc": "s"
  },
  "xixia": {
   "zh": "西夏",
   "en": "Western Xia",
-  "color": "#9f8f3f",
+  "color": "#8a35b0",
   "kind": "state",
   "bloc": "n"
  },
  "jin-jurchen": {
   "zh": "金",
   "en": "Jin (Jurchen)",
-  "color": "#5f6f9f",
+  "color": "#c9ced3",
   "kind": "state",
   "bloc": "n"
  },
  "qi-puppet": {
   "zh": "齊（劉豫）",
   "en": "Qi (Liu Yu, Jin client)",
-  "color": "#7f7f9f",
+  "color": "#2f8f3a",
   "kind": "state",
   "bloc": "n"
  },
  "mongol": {
   "zh": "大蒙古國",
   "en": "Mongol Empire",
-  "color": "#5f4f3f",
+  "color": "#2f8f3a",
   "kind": "state",
   "bloc": "n"
  },
  "gengshi": {
   "zh": "漢（更始）",
   "en": "Han (Gengshi emperor)",
-  "color": "#b07a4a",
+  "color": "#2f8f3a",
   "kind": "state"
  },
  "wang-lang": {
   "zh": "漢（王郎）",
   "en": "Han (Wang Lang)",
-  "color": "#8a6a9a",
+  "color": "#6b93e0",
   "kind": "warlord"
  },
  "chimei": {
   "zh": "赤眉（劉盆子）",
   "en": "Red Eyebrows (Liu Penzi)",
-  "color": "#a8483a",
+  "color": "#7d1a45",
   "kind": "warlord"
  },
  "liu-yong": {
   "zh": "梁（劉永）",
   "en": "Liang (Liu Yong)",
-  "color": "#6a86b0",
+  "color": "#8a35b0",
   "kind": "warlord"
  },
  "zhang-bu": {
   "zh": "齊（張步）",
   "en": "Qi (Zhang Bu)",
-  "color": "#4f9a8a",
+  "color": "#6b93e0",
   "kind": "warlord"
  },
  "dong-xian": {
   "zh": "海西（董憲）",
   "en": "Haixi (Dong Xian)",
-  "color": "#6a6fa8",
+  "color": "#a8c040",
   "kind": "warlord"
  },
  "li-xian": {
   "zh": "淮南（李憲）",
   "en": "Huainan (Li Xian)",
-  "color": "#9a8a4a",
+  "color": "#6b93e0",
   "kind": "warlord"
  },
  "qin-feng": {
   "zh": "楚黎（秦豐）",
   "en": "Chuli (Qin Feng)",
-  "color": "#8a5f4a",
+  "color": "#b874dc",
   "kind": "warlord"
  },
  "tian-rong": {
   "zh": "田戎",
   "en": "Tian Rong",
-  "color": "#7a7a5a",
+  "color": "#a8c040",
   "kind": "warlord"
  },
  "peng-chong": {
   "zh": "燕（彭寵）",
   "en": "Yan (Peng Chong)",
-  "color": "#5f8a6a",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "wei-ao": {
   "zh": "西州（隗囂）",
   "en": "Western Province (Wei Xiao)",
-  "color": "#9a6a7a",
+  "color": "#8a35b0",
   "kind": "warlord"
  },
  "dou-rong": {
   "zh": "河西（竇融）",
   "en": "Hexi (Dou Rong)",
-  "color": "#6aa0a0",
+  "color": "#1583a8",
   "kind": "local"
  },
  "lu-fang": {
   "zh": "盧芳",
   "en": "Lu Fang",
-  "color": "#7a6a8a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "yong": {
   "zh": "雍（章邯）",
   "en": "Yong (Zhang Han)",
-  "color": "#5a5a6a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "sai": {
   "zh": "塞（司馬欣）",
   "en": "Sai (Sima Xin)",
-  "color": "#6a6a5a",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "zhai": {
   "zh": "翟（董翳）",
   "en": "Zhai (Dong Yi)",
-  "color": "#7a6a5a",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "xiwei": {
   "zh": "西魏（魏豹）",
   "en": "Western Wei (Wei Bao)",
-  "color": "#6f8fb0",
+  "color": "#48b4d8",
   "kind": "warlord"
  },
  "henan-k": {
   "zh": "河南（申陽）",
   "en": "Henan (Shen Yang)",
-  "color": "#8a7aa0",
+  "color": "#8478e0",
   "kind": "warlord"
  },
  "han-k": {
   "zh": "韓（韓成）",
   "en": "Han (King Cheng)",
-  "color": "#a07a6a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "yin": {
   "zh": "殷（司馬卬）",
   "en": "Yin (Sima Ang)",
-  "color": "#7a9a8a",
+  "color": "#ec7d96",
   "kind": "warlord"
  },
  "dai-k": {
   "zh": "代（趙歇）",
   "en": "Dai (Zhao Xie)",
-  "color": "#9a8f5a",
+  "color": "#ec7d96",
   "kind": "warlord"
  },
  "changshan": {
   "zh": "常山（張耳）",
   "en": "Changshan (Zhang Er)",
-  "color": "#7f6fa8",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "zhao-k": {
   "zh": "趙（趙歇）",
   "en": "Zhao (Zhao Xie)",
-  "color": "#6f5f9a",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "jiujiang": {
   "zh": "九江（黥布）",
   "en": "Jiujiang (Qing Bu)",
-  "color": "#6f6f96",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "hengshan": {
   "zh": "衡山（吳芮）",
   "en": "Hengshan (Wu Rui)",
-  "color": "#5f9a7a",
+  "color": "#2f8f3a",
   "kind": "warlord"
  },
  "linjiang": {
   "zh": "臨江（共敖）",
   "en": "Linjiang (Gong Ao)",
-  "color": "#8f9f5f",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "liaodong-k": {
   "zh": "遼東（韓廣）",
   "en": "Liaodong (Han Guang)",
-  "color": "#5f8a9a",
+  "color": "#ec7d96",
   "kind": "warlord"
  },
  "yan-k": {
   "zh": "燕（臧荼）",
   "en": "Yan (Zang Tu)",
-  "color": "#4f7f7f",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "jiaodong": {
   "zh": "膠東（田市）",
   "en": "Jiaodong (Tian Shi)",
-  "color": "#5faf9a",
+  "color": "#ec7d96",
   "kind": "warlord"
  },
  "qi-k": {
   "zh": "齊（田氏）",
   "en": "Qi (the Tian)",
-  "color": "#4f9a7a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "jibei-k": {
   "zh": "濟北（田安）",
   "en": "Jibei (Tian An)",
-  "color": "#7faf8a",
+  "color": "#ec7d96",
   "kind": "warlord"
  },
  "chu-lin": {
   "zh": "楚（林士弘）",
   "en": "Chu (Lin Shihong)",
-  "color": "#8a6a9a",
+  "color": "#6b93e0",
   "kind": "warlord"
  },
  "du-fuwei-p": {
   "zh": "杜伏威",
   "en": "Du Fuwei",
-  "color": "#6a8a6a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "changle": {
   "zh": "長樂王（竇建德）",
   "en": "Prince of Changle (Dou Jiande)",
-  "color": "#7a8a4a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "liang-shidu-p": {
   "zh": "梁師都",
   "en": "Liang Shidu",
-  "color": "#8a7a5a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "dingyang": {
   "zh": "定楊（劉武周）",
   "en": "Dingyang (Liu Wuzhou)",
-  "color": "#6a6a8a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "wei-limi": {
   "zh": "魏公（李密）",
   "en": "Duke of Wei (Li Mi)",
-  "color": "#a0603c",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "qin-xueju": {
   "zh": "秦（薛舉）",
   "en": "Qin (Xue Ju)",
-  "color": "#9a5a5a",
+  "color": "#8a35b0",
   "kind": "warlord"
  },
  "liang-ligui": {
   "zh": "涼（李軌）",
   "en": "Liang (Li Gui)",
-  "color": "#5a8a8a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "liang-xiaoxian": {
   "zh": "梁（蕭銑）",
   "en": "Liang (Xiao Xian)",
-  "color": "#6a7aa0",
+  "color": "#b02a86",
   "kind": "warlord"
  },
  "wang-shichong-p": {
   "zh": "王世充（東都）",
   "en": "Wang Shichong (Luoyang)",
-  "color": "#8a6a4a",
+  "color": "#c2305a",
   "kind": "warlord"
  },
  "zheng-sisters": {
   "zh": "徵側",
   "en": "Zheng Ce (Trưng Trắc)",
-  "color": "#5f8a6a",
+  "color": "#2f8f3a",
   "kind": "local"
  },
  "yellow-turbans": {
   "zh": "黃巾",
   "en": "Yellow Turbans",
-  "color": "#c4aa3c",
+  "color": "#d9a514",
   "kind": "local"
  },
  "baling-p": {
   "zh": "沃野（破落汗拔陵）",
   "en": "Woye (Poluohan Baling)",
-  "color": "#7a6a50",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "moqi-p": {
   "zh": "秦（莫折念生）",
   "en": "Qin (Mozhe Niansheng)",
-  "color": "#8a5a5a",
+  "color": "#ec7d96",
   "kind": "warlord"
  },
  "wanqi-p": {
   "zh": "高平（万俟醜奴）",
   "en": "Gaoping (Moqi Chounu)",
-  "color": "#6a5a8a",
+  "color": "#8478e0",
   "kind": "warlord"
  },
  "du-luozhou-p": {
   "zh": "杜洛周（上谷）",
   "en": "Du Luozhou (Shanggu)",
-  "color": "#5a7a6a",
+  "color": "#63b860",
   "kind": "warlord"
  },
  "ge-rong-p": {
   "zh": "齊（葛榮）",
   "en": "Qi (Ge Rong)",
-  "color": "#9a7a4a",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "han-lou-p": {
   "zh": "韓樓（幽州）",
   "en": "Han Lou (You province)",
-  "color": "#7a7a5a",
+  "color": "#7a4a22",
   "kind": "warlord"
  },
  "xiao-baoyin-p": {
   "zh": "齊（蕭寶夤）",
   "en": "Qi (Xiao Baoyin)",
-  "color": "#5a6a8a",
+  "color": "#1583a8",
   "kind": "warlord"
  },
  "xing-gao-p": {
   "zh": "漢（邢杲）",
   "en": "Han (Xing Gao)",
-  "color": "#8a6a7a",
+  "color": "#ec7d96",
   "kind": "warlord"
  },
  "yuchi-jiong-p": {
   "zh": "尉遲迥（相州）",
   "en": "Yuchi Jiong (Xiang province)",
-  "color": "#8a7a4a",
+  "color": "#7a8f1a",
   "kind": "warlord"
  },
  "wang-qian-p": {
   "zh": "王謙（益州）",
   "en": "Wang Qian (Yi province)",
-  "color": "#6a6a8a",
+  "color": "#2a5fb8",
   "kind": "warlord"
  },
  "qi-li": {
   "zh": "岐（李茂貞）",
   "en": "Qi (Li Maozhen)",
-  "color": "#7d6a8f",
+  "color": "#8a35b0",
   "kind": "state"
  },
  "wuping": {
   "zh": "湖南（武平·周行逢）",
   "en": "Hunan (Wuping, Zhou Xingfeng)",
-  "color": "#a07a5a",
+  "color": "#6b93e0",
   "kind": "state"
  }
 }
